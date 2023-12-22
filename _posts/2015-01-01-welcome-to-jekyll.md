@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
+title: Hello there.
+subtitle: General Kenobi.
 author: Jeffrey
 categories: jekyll
 banner:
